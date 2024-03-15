@@ -1,0 +1,1 @@
+console.log('note-app.js is running');
