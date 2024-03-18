@@ -46,3 +46,6 @@ Follow these steps to get started with this application:
     npm link
     ```
 Now, you can use the `note` command to run the application.
+
+> [!important]
+> Make sure to run `note clean` command to clear test notes from database.
