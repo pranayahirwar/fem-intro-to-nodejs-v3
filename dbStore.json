@@ -1,0 +1,164 @@
+{
+  "notes": [
+    {
+      "tags": [
+        "chores",
+        " shopping"
+      ],
+      "id": 1710666877364,
+      "context": "Update grocery list"
+    },
+    {
+      "tags": [
+        "development",
+        " feature"
+      ],
+      "id": 1710666878013,
+      "context": "Implement new feature"
+    },
+    {
+      "tags": [
+        "chores",
+        " organization"
+      ],
+      "id": 1710666878808,
+      "context": "Organize files in directory"
+    },
+    {
+      "tags": [
+        "bugfix",
+        " urgent"
+      ],
+      "id": 1710666879520,
+      "context": "Fix critical bug in code"
+    },
+    {
+      "tags": [
+        "chores",
+        " garden"
+      ],
+      "id": 1710666880787,
+      "context": "Water the plants"
+    },
+    {
+      "tags": [
+        "refactor",
+        " performance"
+      ],
+      "id": 1710666881326,
+      "context": "Refactor code for better performance"
+    },
+    {
+      "tags": [
+        "chores",
+        " finance"
+      ],
+      "id": 1710666882074,
+      "context": "Pay electricity bill"
+    },
+    {
+      "tags": [
+        "docs",
+        " api"
+      ],
+      "id": 1710666882815,
+      "context": "Document API endpoints"
+    },
+    {
+      "tags": [
+        "work",
+        " presentation"
+      ],
+      "id": 1710666883784,
+      "context": "Prepare presentation slides"
+    },
+    {
+      "tags": [
+        "perf",
+        " database"
+      ],
+      "id": 1710666884578,
+      "context": "Optimize database queries"
+    },
+    {
+      "tags": [
+        "chores",
+        " email"
+      ],
+      "id": 1710666885337,
+      "context": "Clean out email inbox"
+    },
+    {
+      "tags": [
+        "merge",
+        " feature"
+      ],
+      "id": 1710666886065,
+      "context": "Merge feature branches"
+    },
+    {
+      "tags": [
+        "chores",
+        " health"
+      ],
+      "id": 1710666886857,
+      "context": "Schedule dentist appointment"
+    },
+    {
+      "tags": [
+        "docs",
+        " project"
+      ],
+      "id": 1710666887698,
+      "context": "Update project documentation"
+    },
+    {
+      "tags": [
+        "chores",
+        " pet"
+      ],
+      "id": 1710666888425,
+      "context": "Walk the dog"
+    },
+    {
+      "tags": [
+        "fix",
+        " css"
+      ],
+      "id": 1710666889166,
+      "context": "Fix CSS styling issues"
+    },
+    {
+      "tags": [
+        "chores",
+        " home"
+      ],
+      "id": 1710666889721,
+      "context": "Vacuum living room"
+    },
+    {
+      "tags": [
+        "test",
+        " authentication"
+      ],
+      "id": 1710666890541,
+      "context": "Add unit tests for authentication"
+    },
+    {
+      "tags": [
+        "chores",
+        " finance"
+      ],
+      "id": 1710666891206,
+      "context": "Pay rent"
+    },
+    {
+      "tags": [
+        "docs",
+        " readme"
+      ],
+      "id": 1710666891950,
+      "context": "Update README with installation instructions"
+    }
+  ]
+}
